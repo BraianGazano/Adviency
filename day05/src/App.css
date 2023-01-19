@@ -1,0 +1,48 @@
+h1 {
+  color: white;
+}
+.content {
+  width: 50%;
+  margin: 0 auto;
+  padding: 15px;
+  background-color: green;
+  border-radius: 5px;
+}
+button:hover {
+  color: red;
+  background-color: white;
+  transition: 0.5s;
+}
+
+button {
+  padding: 10px;
+  color: white;
+  background-color: red;
+  border-radius: 6px;
+  border: none;
+  cursor: pointer;
+}
+form {
+  display: flex;
+  justify-content: space-between;
+}
+
+input {
+  font-family: "Libre Baskerville", serif;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+}
+li {
+  display: flex;
+  justify-content: space-between;
+  list-style: none;
+  margin-bottom: 10px;
+  color: white;
+}
+.App {
+  text-align: center;
+}
+.btn-delete {
+  width: 100%;
+}
