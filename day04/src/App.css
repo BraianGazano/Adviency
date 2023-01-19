@@ -1,0 +1,43 @@
+h1{
+  color: red;
+}
+.content{
+  width: 50%;
+  margin: 0 auto;
+  padding: 15px;
+  background-color: gray;
+}
+button{
+  padding: 10px;
+  color: white;
+  background-color:red;
+  border-radius: 6px;
+  border: none;
+  cursor: pointer;
+  margin-left: 10px;
+}
+form{
+  display: flex;
+  justify-content: space-between;
+}
+
+input:hover{
+  border: 0.5px white solid;
+  transition: 0.5s;
+}
+
+input{
+  font-family: "Libre Baskerville", serif;
+  padding: 10px;
+  border: none;
+}
+li{
+  display: flex;
+  justify-content: space-between;
+  list-style: none;
+  margin-bottom: 10px;
+  color: red;
+}
+.App {
+  text-align: center;
+}
