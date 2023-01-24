@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css2?family=Libre+Baskerville&display=swap");
+body {
+  padding: 0;
+  text-align: center;
+  margin: 0;
+  background-repeat: no-repeat;
+  background-image: url("/public/fondo.jpg");
+  font-family: "Libre Baskerville", serif;
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
