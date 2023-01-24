@@ -1,6 +1,10 @@
 # Adviency
 ## Desafio diario de React
 
+Cada día se realizará desde 0 la misma aplicación añadiendo una funcionalidad nueva, en este repositorio fueron subidas las soluciones a partir del día 4 en adelante.
+La misma se vé de la siguiente forma:
+
+
  ## Listado de consignas: 
 
 - Día 1: Para calentar motores vamos a mantener las cosas simples, mostremos una lista de regalos, 3 elementos, fijos, sin nada más.
