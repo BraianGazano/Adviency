@@ -1,6 +1,6 @@
 # Adviency Dia 6
 
-Este es la resolución del dia 6 correspondiente al desafio diario realizado en React del [Advency](twitter.com/goncy/status/1600108592912207873).
+Este es la resolución del dia 6 correspondiente al desafio diario realizado en React del [Advency](https://twitter.com/goncy/status/1600108592912207873).
 
 ## Consigna
 
